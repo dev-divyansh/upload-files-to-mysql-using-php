@@ -8,6 +8,10 @@ This repo has codes for uploading any sort of file from html table to mysql data
 . in config.php file change the username , password .
 . you are good to go.
 
+## About files :
+
+[index.html](./index.html) this file has codes for homepage basically front-end
+[config.php](./config.php) this file has code for configuring with database and also uploading data to database.
 
 ## Issues & Feedback :
 
